@@ -1,0 +1,41 @@
+.name {
+  text-align: center;
+}
+
+.name > h2 {
+  color: black;
+}
+
+.name__parser > h3 {
+  margin-top: 100px;
+  color: lightgray;
+}
+
+.name__parserName {
+  text-transform: capitalize;
+}
+
+.name__percentage {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 30%;
+}
+
+.name__percentage > p {
+  margin-right: 15px;
+}
+.name__percentage > div {
+  margin-right: 15px;
+  height: 15px;
+}
+
+.name__percentage > h6 {
+  color:black;
+}
+
+
+.name__footerText {
+  margin-top: 148px;
+  color: lightgray;
+}

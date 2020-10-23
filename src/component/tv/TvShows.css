@@ -1,0 +1,26 @@
+.tvShows {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.tvShows__parser {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tvShows__footerText {
+  margin-top: 200px;
+  color: lightgray;
+}
+
+.tv__filters {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.tv__filters > form {
+  margin-right: 20px;
+}

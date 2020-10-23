@@ -1,0 +1,42 @@
+.jokes {
+  display: grid;
+  place-items: center;
+}
+
+.jokes__container {
+  position: relative;
+  height: fit-content;
+  width: 40%;
+  max-width: 250px;
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  text-align: center;
+  margin: 10px;
+  min-height: 250px;
+}
+
+.jokes__body {
+  word-wrap: anywhere;
+  padding: 10px;
+}
+
+.jokes__container > button {
+  margin-bottom: 10px;
+}
+
+.jokes__type {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  flex-direction: column;
+  text-align: left;
+  line-height: 0px;
+}
+
+.jokes__container > button {
+  height: 25px;
+}
+
+.jokes__type > p > strong {
+  color:gray;
+}

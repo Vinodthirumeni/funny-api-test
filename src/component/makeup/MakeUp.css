@@ -1,0 +1,32 @@
+.makeup {
+  text-align: center;
+}
+
+.makeup > .MuiFormControl-root {
+  width: 50% !important;
+}
+
+.makeupcard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+._loading_overlay_wrapper {
+  position: inherit !important;
+}
+
+.makeup__filters {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.makeup__filters > .MuiFormControl-root {
+  margin: 5px;
+  display: inline-flex;
+  padding: 0px;
+  position: relative;
+  min-width: 20%;
+  flex-direction: column;
+}

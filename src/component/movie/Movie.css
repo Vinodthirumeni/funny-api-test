@@ -1,0 +1,16 @@
+.movie {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.movie__parser {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie__footerText {
+  margin-top: 200px;
+  color: lightgray;
+}
