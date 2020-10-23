@@ -78,38 +78,38 @@ DELETE UNWANTED STUFFS FROM PROJECT FOLDER : Delete unwanted files and thier dep
 3rd PARTY PLUGIN
 
 	Install Material UI(For icons and components)
-			npm install @material-ui/core
-			npm install @material-ui/icons
+		npm install @material-ui/core
+		npm install @material-ui/icons
 
 	Install React Router(For Routing and navigations)
-			npm install react-router-dom
+		npm install react-router-dom
 
 	Install Framer Motion(For animations)
-			npm i framer-motion
+		npm i framer-motion
 
 	Install iso-3166-1-alpha-2(For Country code findings)
-			npm i iso-3166-1-alpha-2
+		npm i iso-3166-1-alpha-2
 
 	Install iso-639-1(For Lannguage findings)
-			npm i iso-639-1
+		npm i iso-639-1
 
 	Install react-file-reader(For read any kind on files)
-			npm i react-file-reader
+		npm i react-file-reader
 
 	Install react-loading-overlay(For Full page loading)
-			npm i react-loading-overlay
+		npm i react-loading-overlay
 
 	Install react-percent-bar(For percentage bar)
-			npm i react-percent-bar
+		npm i react-percent-bar
 
 	Install react-star-ratings(For star ratings)
-			npm i react-star-ratings
+		npm i react-star-ratings
 
 	Install read-more-react(For readmore at end of the paragraph)
-			npm i read-more-react
+		npm i read-more-react
 
 	Install xlsx(For xlsx read/write)
-			npm i xlsx
+		npm i xlsx
 
 
 DATABASE & DEPLOYMENT > npm i firebase > npm install -g firebase-tools > login to gmail -> search for firebase -> choose account -> go to console -> create a project -> go to project setting -> grab the config file -> create firebase.js file in your application -> paste it > firebase login > firebase init > Hosting -> Use Exiting project ->(pick the project name) > insted of public give build > Single page application? -> y > npm run build(in future any chnages in the code means we have to use this again) > firebase deploy
