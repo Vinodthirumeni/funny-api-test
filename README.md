@@ -116,4 +116,4 @@ DATABASE & DEPLOYMENT > npm i firebase > npm install -g firebase-tools > login t
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
 
-Live Link : https://funny-api-test.web.app/foodworld
+Live Link : https://funny-api-test.web.app
