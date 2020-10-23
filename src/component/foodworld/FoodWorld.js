@@ -20,7 +20,7 @@ function FoodWorld() {
             "x-rapidapi-host":
               "edamam-food-and-grocery-database.p.rapidapi.com",
             "x-rapidapi-key":
-              "b3924b2451msheb465d34072c8f2p12bd8ejsn8abbb668ad1d",
+              "XXXX",
           },
         }
       )
